@@ -1,18 +1,2 @@
-server:
-  port: 18040
-spring:
-  application:
-    name: spring-cloud-config-test
-eureka:
-  #  instance:
-  #    hostname: spring-cloud-gateway-test
-  client:
-    service-url:
-      defaultZone: http://127.0.0.1:7001/eureka
-#management:
-#  endpoint:
-#    gateway:
-#      enabled: true
-#    web:
-#      exposure:
-#        include: true
+config:
+  info: faafafdfdfdfdfdfdfd
